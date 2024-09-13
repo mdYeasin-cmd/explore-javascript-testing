@@ -1,0 +1,1 @@
+export const stringLenth = str => str.length;
