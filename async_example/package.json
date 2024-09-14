@@ -1,0 +1,19 @@
+{
+  "name": "async_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --reporter verbose --run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
