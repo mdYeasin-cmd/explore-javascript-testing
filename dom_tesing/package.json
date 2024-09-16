@@ -1,0 +1,17 @@
+{
+  "name": "dom_tesing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dom.js",
+  "scripts": {
+    "test": "vitest --reporter verbose --run --environment jsdom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "happy-dom": "^15.7.4",
+    "jsdom": "^25.0.0",
+    "vitest": "^2.1.1"
+  }
+}
